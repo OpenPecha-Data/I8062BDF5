@@ -1,0 +1,24 @@
+id: I8062BDF5
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-PH-04
+  title: ༄༅། །དཔལ་ཕག་མོ་གྲུ་པའི་རྣམ་པར་ཐར་པ་རིན་པོ་ཆེ་མི་ཟད་པ་རྒྱ་མཚོའི་གཏེར་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། ༧འབྲི་གུང་ཆོས་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧འབྲི་གུང་ཆོས་རྗེ།
+  sku: RCP-PH-04
+  cover: RCP-PHA-04.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །དཔལ་ཕག་མོ་གྲུ་པའི་རྣམ་པར་ཐར་པ་རིན་པོ་ཆེ་མི་ཟད་པ་རྒྱ་མཚོའི་གཏེར་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: RCP-PH-04
+  cover: RCP-PHA-04.jpg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
+- Tsawa
